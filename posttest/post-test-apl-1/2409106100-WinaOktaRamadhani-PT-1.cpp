@@ -52,7 +52,11 @@ void menuUtama() {
         cout << "| 1. Hitung luas                          |\n";
         cout << "| 2. Hitung keliling                      |\n";
         cout << "| 3. Hitung volume                        |\n";
+<<<<<<< HEAD
         cout << "| 4. eXIT                                 |\n";
+=======
+        cout << "| 4. EXIT                                 |\n";
+>>>>>>> 593bca6 (posttest 2 selesai)
         cout << "===========================================\n";
         cout << "Pilih menu: "; cin >> pilihan;
         cin.ignore();
